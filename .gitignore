@@ -1,6 +1,14 @@
 
-####################
-# compiled sources #
-####################
-.DS_Store
+#########
+# Files #
+#########
 
+.DS_Store
+*.blend[0-9]
+
+#########
+# Paths #
+#########
+
+**/animation_frames
+**/textures
