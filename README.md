@@ -1,24 +1,32 @@
 # blender-projects
 
 ## List of Projects
-- Donut Tutorial (Archived)
-- Paper Tutorial
-- Isometric Room Tutorial
+- Donut (Archived)
+- Paper Simulation
+- Isometric Room (Archived)
+- Car Race
 
-### Donut Tutorial
+### Donut 
 
 This is my first blender project! The final animation is displayed below:
 
 ![](archive/donut/output.gif)
 
-### Paper Tutorial
+### Paper Simulation 
 
 This project is an ongoing experimentation of playing around with papers. An animation that briefly exhibits my experimentation is below:
 
 ![](lazy_tutorials/paper/output.gif)
 
-### Isometric Room Tutorial
+### Isometric Room 
 
 This project involved learning more about basic blender operations and building out an interesting scene in an isometric style. The animation showcasing the scene is shown below:
 
-![](isometric_room/output.gif)
+![](archive/isometric_room/output.gif)
+
+### Car Race
+
+This project involved learning more about motion and animation techniques to create a "seamless" transition between loops. The animation showcasing the scene is shown below:
+
+![](car_race/output.gif)
+
