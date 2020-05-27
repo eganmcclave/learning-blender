@@ -30,3 +30,9 @@ This project involved learning more about motion and animation techniques to cre
 
 ![](car_race/output.gif)
 
+### Pinic Table
+
+This project involved learning more about stylizing animation for still objects. The animation showcasing the scene is shown below:
+
+![](pinic_table/output.gif)
+
