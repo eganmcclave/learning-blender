@@ -36,3 +36,9 @@ This project involved learning more about stylizing animation for still objects.
 
 ![](archive/pinic_table/output.gif)
 
+### Shapeshifting Pots
+
+This projected involved learning more about shapekeys and their usefullness in animation. The animation showcasing the scene is shown below:
+
+![](shapeshifting_pots/output.gif)
+
