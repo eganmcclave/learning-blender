@@ -4,7 +4,9 @@
 - Donut (Archived)
 - Paper Simulation
 - Isometric Room (Archived)
-- Car Race
+- Car Race (Archived)
+- Pinic Table Animation (Archived)
+- Shapeshifting Pots Animation (Archived)
 
 ### Donut 
 
@@ -40,5 +42,5 @@ This project involved learning more about stylizing animation for still objects.
 
 This projected involved learning more about shapekeys and their usefullness in animation. The animation showcasing the scene is shown below:
 
-![](shapeshifting_pots/output.gif)
+![](archive/shapeshifting_pots/output.gif)
 
